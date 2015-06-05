@@ -1,0 +1,15 @@
+{
+  "name": "gf.less",
+  "version": "0.0.0",
+  "description": "a lesscss grid system built upon golden ratio and Fibonacci numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akfish/gf.less.git"
+  },
+  "author": "akfish <akfish@gmail.com> (http://catx.me)",
+  "license": "MIT"
+}
